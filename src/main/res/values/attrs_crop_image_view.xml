@@ -19,8 +19,6 @@
         <attr name="handleColor" format="color"/>
         <attr name="guideColor" format="color"/>
         <attr name="guideShowMode">
-
-
             <enum name="show_always" value="1"/>
             <enum name="show_on_touch" value="2"/>
             <enum name="not_show" value="3"/>
